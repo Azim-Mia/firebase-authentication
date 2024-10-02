@@ -1,6 +1,6 @@
 import {useState} from 'react';
 import { GoogleAuthProvider,FacebookAuthProvider,signOut,GithubAuthProvider, signInWithPopup } from "firebase/auth";
-import auth from '/data/data/com.termux/files/home/firebase-auth/src/config'
+import auth from '/data/data/com.termux/files/home/firebase-authentication/src/conponents/config';
 
  //  import { FacebookAuthProvider } from "firebase/auth";
   // import { GithubAuthProvider } from "firebase/auth";
